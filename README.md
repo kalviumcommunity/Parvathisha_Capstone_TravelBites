@@ -71,4 +71,4 @@ This 3-week capstone project focuses on creating a **responsive, interactive** U
 - 📊 **GitHub Project Management** for CI and collaboration
 - 🔐 **JWT-based Auth Simulation** (Frontend only)
 
----
+--- 
